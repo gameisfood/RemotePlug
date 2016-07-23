@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "15fd310b3f3577158d3c61d915d63b63"
+build_time: [513670422, 728884000]
+inputs:
+  "/Users/Syd/Documents/Git/RemotePlug/RemotePlug/AppDelegate.swift": [513670405, 0]
+  "/Users/Syd/Documents/Git/RemotePlug/RemotePlug/AddNewController.swift": [513670405, 0]
+  "/Users/Syd/Documents/Git/RemotePlug/MainListViewController.swift": [513670405, 0]
+  "/Users/Syd/Documents/Git/RemotePlug/MainListViewCellController.swift": [513670405, 0]

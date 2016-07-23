@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "7dc8fb87d7b4d679b65d55bf27d8cb6e"
+build_time: [522569181, 319404000]
+inputs:
+  "/Users/Syd/Documents/Git/RemotePlug/RemotePlug/AddNewController.swift": [513670405, 0]
+  "/Users/Syd/Documents/Git/RemotePlug/MainListViewCellController.swift": [513670405, 0]
+  "/Users/Syd/Documents/Git/RemotePlug/RemotePlug/AppDelegate.swift": [513670405, 0]
+  "/Users/Syd/Documents/Git/RemotePlug/MainListViewController.swift": [513678328, 0]
